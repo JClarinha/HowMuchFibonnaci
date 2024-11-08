@@ -1,0 +1,14 @@
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\bin\Debug\net8.0\HowMuchFibonnaci.exe
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\bin\Debug\net8.0\HowMuchFibonnaci.deps.json
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\bin\Debug\net8.0\HowMuchFibonnaci.runtimeconfig.json
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\bin\Debug\net8.0\HowMuchFibonnaci.dll
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\bin\Debug\net8.0\HowMuchFibonnaci.pdb
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.AssemblyInfoInputs.cache
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.AssemblyInfo.cs
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.dll
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\refint\HowMuchFibonnaci.dll
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.pdb
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\HowMuchFibonnaci.genruntimeconfig.cache
+C:\Users\joaoc\Desktop\Projetos\Small Projects\HowMuchFibonnaci\obj\Debug\net8.0\ref\HowMuchFibonnaci.dll
